@@ -1,10 +1,8 @@
 *.fla
 *.swf
 mochi/
-Assets/
 Resources/
 *.png
-assets/
 .hg/
 bat/
 bin/

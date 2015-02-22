@@ -1,0 +1,6 @@
+<level width="640" height="480">
+  <enemies>
+    <BasicGoblin id="0" x="112" y="144" spawn="0" />
+    <BasicGoblin id="1" x="160" y="160" spawn="5" />
+  </enemies>
+</level>
