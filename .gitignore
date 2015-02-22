@@ -1,0 +1,17 @@
+*.fla
+*.swf
+mochi/
+Assets/
+Resources/
+*.png
+assets/
+.hg/
+bat/
+bin/
+cert/
+dist/
+icons/
+obj/
+*.as3proj
+*.bat
+*.orig
